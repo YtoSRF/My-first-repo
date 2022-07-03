@@ -1,0 +1,32 @@
+/* h1 {
+    color: brown;
+    background-color: rgb(228, 228, 120);
+    text-emphasis: none;
+    font-size: larger;
+    margin: 10px;
+    padding: 10px; */
+
+
+/* p {
+    color: grey;
+    background-color: darkorchid;
+    text-align: justify;
+} */
+
+.shanta {
+    column-rule-color: blueviolet;
+    columns: 2;
+    color: magenta;
+    background-color: black;
+}
+#B
+ {
+    color: bisque;
+    padding: 10px; 
+    background-color: blue;
+}
+#A {
+    color: bisque;
+    padding: 10px; 
+    background-color: rgb(87, 177, 35);
+}
